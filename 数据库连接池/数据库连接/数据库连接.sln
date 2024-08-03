@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据库连接", "数据库连接.vcxproj", "{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Debug|x64.ActiveCfg = Debug|x64
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Debug|x64.Build.0 = Debug|x64
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Debug|x86.ActiveCfg = Debug|Win32
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Debug|x86.Build.0 = Debug|Win32
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Release|x64.ActiveCfg = Release|x64
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Release|x64.Build.0 = Release|x64
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Release|x86.ActiveCfg = Release|Win32
+		{7B7E5CE0-F210-4DA1-BF45-ABE45AB6DE96}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82A6A942-9BAF-4E4B-9697-7CF0C1EE5B8A}
+	EndGlobalSection
+EndGlobal
